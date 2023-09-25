@@ -1,0 +1,6 @@
+<div id="staffitem">
+<div class="logo"><img src="https://cdn.discordapp.com/avatars/371799120266002464/8c3fe3748b19d71d08972b0c37facd0a.webp" style="width: 45px;height: 45px;border-radius: 15% !important;"></div>
+<div class="contents">
+<div class="name">dochardi.#0</div>
+<div class="role">Coding Wizard / Founder</div>
+</div></div>
